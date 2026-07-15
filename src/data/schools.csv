@@ -1,0 +1,241 @@
+school_id,school_name,state,district,enrollment,reading_pct_std3,arithmetic_pct_std3,girls_dropout_risk_pct,has_library,has_computer,years_flagged_no_improvement,intervention_recorded,library_used,computer_used
+S0001,"Govt Primary School, Gorakhpur Block 1",Uttar Pradesh,Gorakhpur,90,27.0,27.0,14.7,True,False,0,True,False,False
+S0002,"Govt Upper Primary School, Bahraich Block 2",Uttar Pradesh,Bahraich,55,32.1,32.1,15.3,True,True,2,False,True,True
+S0003,"Govt Higher Secondary School, Sitapur Block 3",Uttar Pradesh,Sitapur,75,22.2,31.2,14.1,True,True,0,True,False,True
+S0004,"Govt Primary School, Hardoi Block 4",Uttar Pradesh,Hardoi,68,39.8,33.2,14.4,True,True,2,False,True,True
+S0005,"Govt Upper Primary School, Kushinagar Block 5",Uttar Pradesh,Kushinagar,105,27.0,20.6,17.4,True,False,3,False,False,False
+S0006,"Govt Higher Secondary School, Balrampur Block 6",Uttar Pradesh,Balrampur,42,26.9,28.8,15.9,True,False,3,False,True,False
+S0007,"Govt Primary School, Shrawasti Block 7",Uttar Pradesh,Shrawasti,140,23.1,32.5,15.8,True,False,4,False,False,False
+S0008,"Govt Upper Primary School, Basti Block 8",Uttar Pradesh,Basti,75,24.8,25.2,14.0,True,True,0,False,False,True
+S0009,"Govt Higher Secondary School, Siddharthnagar Block 9",Uttar Pradesh,Siddharthnagar,68,26.3,24.1,13.1,True,False,1,True,True,False
+S0010,"Govt Primary School, Azamgarh Block 10",Uttar Pradesh,Azamgarh,82,37.1,34.6,13.3,True,True,1,False,False,True
+S0011,"Govt Upper Primary School, Gorakhpur Block 11",Uttar Pradesh,Gorakhpur,105,23.3,29.2,15.1,True,True,1,True,False,True
+S0012,"Govt Higher Secondary School, Bahraich Block 12",Uttar Pradesh,Bahraich,42,35.6,35.2,15.0,True,True,0,True,True,True
+S0013,"Govt Primary School, Sitapur Block 13",Uttar Pradesh,Sitapur,90,24.5,20.7,12.5,True,True,3,True,False,True
+S0014,"Govt Upper Primary School, Hardoi Block 14",Uttar Pradesh,Hardoi,120,33.3,26.3,11.3,True,True,0,True,True,False
+S0015,"Govt Higher Secondary School, Kushinagar Block 15",Uttar Pradesh,Kushinagar,90,28.2,28.4,14.3,False,False,3,False,False,False
+S0016,"Govt Primary School, Balrampur Block 16",Uttar Pradesh,Balrampur,48,18.5,25.4,18.4,True,True,1,False,False,False
+S0017,"Govt Upper Primary School, Shrawasti Block 17",Uttar Pradesh,Shrawasti,60,27.7,28.0,14.8,False,False,0,True,False,False
+S0018,"Govt Higher Secondary School, Basti Block 18",Uttar Pradesh,Basti,90,29.0,25.8,14.6,True,False,2,True,False,False
+S0019,"Govt Primary School, Siddharthnagar Block 19",Uttar Pradesh,Siddharthnagar,90,20.4,29.2,14.5,True,True,2,False,True,False
+S0020,"Govt Upper Primary School, Azamgarh Block 20",Uttar Pradesh,Azamgarh,90,40.0,26.6,12.5,True,True,1,True,True,False
+S0021,"Govt Higher Secondary School, Gorakhpur Block 21",Uttar Pradesh,Gorakhpur,35,29.0,28.5,11.9,True,False,0,False,False,False
+S0022,"Govt Primary School, Bahraich Block 22",Uttar Pradesh,Bahraich,55,25.2,29.5,14.3,True,False,1,False,False,False
+S0023,"Govt Upper Primary School, Sitapur Block 23",Uttar Pradesh,Sitapur,120,33.7,22.7,15.1,True,True,1,True,True,False
+S0024,"Govt Higher Secondary School, Hardoi Block 24",Uttar Pradesh,Hardoi,42,34.7,18.5,15.8,True,False,0,False,True,False
+S0025,"Govt Primary School, Kushinagar Block 25",Uttar Pradesh,Kushinagar,82,28.8,25.3,16.1,True,True,0,False,False,False
+S0026,"Govt Upper Primary School, Balrampur Block 26",Uttar Pradesh,Balrampur,90,34.8,16.8,16.7,True,True,3,False,False,True
+S0027,"Govt Higher Secondary School, Shrawasti Block 27",Uttar Pradesh,Shrawasti,35,38.3,22.8,16.4,True,True,0,True,True,False
+S0028,"Govt Primary School, Basti Block 28",Uttar Pradesh,Basti,140,33.9,17.4,18.6,True,True,4,False,True,True
+S0029,"Govt Upper Primary School, Siddharthnagar Block 29",Uttar Pradesh,Siddharthnagar,90,18.9,24.7,16.2,False,True,0,True,False,False
+S0030,"Govt Higher Secondary School, Azamgarh Block 30",Uttar Pradesh,Azamgarh,35,32.1,34.5,15.9,False,True,4,True,False,False
+S0031,"Govt Primary School, Gorakhpur Block 31",Uttar Pradesh,Gorakhpur,55,31.1,35.4,14.2,True,False,1,True,True,False
+S0032,"Govt Upper Primary School, Bahraich Block 32",Uttar Pradesh,Bahraich,60,24.0,35.6,16.8,True,True,0,False,True,True
+S0033,"Govt Higher Secondary School, Sitapur Block 33",Uttar Pradesh,Sitapur,42,28.3,34.0,14.0,True,False,0,False,False,False
+S0034,"Govt Primary School, Hardoi Block 34",Uttar Pradesh,Hardoi,48,23.4,25.5,14.6,True,True,4,False,True,False
+S0035,"Govt Upper Primary School, Kushinagar Block 35",Uttar Pradesh,Kushinagar,120,32.1,24.0,17.6,True,True,1,False,False,False
+S0036,"Govt Higher Secondary School, Balrampur Block 36",Uttar Pradesh,Balrampur,60,37.4,14.9,13.1,True,False,0,True,False,False
+S0037,"Govt Primary School, Shrawasti Block 37",Uttar Pradesh,Shrawasti,60,23.4,26.4,11.9,True,True,1,True,False,True
+S0038,"Govt Upper Primary School, Basti Block 38",Uttar Pradesh,Basti,35,22.1,29.6,14.6,True,False,0,False,False,False
+S0039,"Govt Higher Secondary School, Siddharthnagar Block 39",Uttar Pradesh,Siddharthnagar,42,24.9,24.5,14.8,True,True,4,False,True,False
+S0040,"Govt Primary School, Azamgarh Block 40",Uttar Pradesh,Azamgarh,75,20.3,29.0,15.5,True,True,0,True,False,True
+S0041,"Govt Upper Primary School, Gorakhpur Block 41",Uttar Pradesh,Gorakhpur,42,36.5,21.7,18.4,True,True,1,False,True,False
+S0042,"Govt Higher Secondary School, Bahraich Block 42",Uttar Pradesh,Bahraich,55,18.0,39.4,10.2,True,False,3,False,True,False
+S0043,"Govt Primary School, Sitapur Block 43",Uttar Pradesh,Sitapur,120,32.5,16.5,19.0,True,False,3,False,True,False
+S0044,"Govt Upper Primary School, Hardoi Block 44",Uttar Pradesh,Hardoi,82,29.4,26.9,19.4,True,False,0,False,True,False
+S0045,"Govt Higher Secondary School, Kushinagar Block 45",Uttar Pradesh,Kushinagar,68,22.9,29.3,15.5,True,True,0,True,False,True
+S0046,"Govt Primary School, Balrampur Block 46",Uttar Pradesh,Balrampur,90,23.8,28.8,12.7,True,False,0,True,True,False
+S0047,"Govt Upper Primary School, Shrawasti Block 47",Uttar Pradesh,Shrawasti,68,31.2,24.7,8.7,True,True,2,False,True,False
+S0048,"Govt Higher Secondary School, Basti Block 48",Uttar Pradesh,Basti,60,19.6,22.4,13.1,True,True,0,True,True,False
+S0049,"Govt Primary School, Siddharthnagar Block 49",Uttar Pradesh,Siddharthnagar,75,17.1,26.6,12.7,True,True,0,False,False,True
+S0050,"Govt Upper Primary School, Azamgarh Block 50",Uttar Pradesh,Azamgarh,60,14.8,25.5,16.9,True,False,1,False,False,False
+S0051,"Govt Higher Secondary School, Gorakhpur Block 51",Uttar Pradesh,Gorakhpur,140,23.6,36.2,13.5,True,True,3,False,False,True
+S0052,"Govt Primary School, Bahraich Block 52",Uttar Pradesh,Bahraich,75,26.6,25.6,18.0,True,True,2,False,False,False
+S0053,"Govt Upper Primary School, Sitapur Block 53",Uttar Pradesh,Sitapur,140,25.1,33.8,13.7,True,False,0,True,False,False
+S0054,"Govt Higher Secondary School, Hardoi Block 54",Uttar Pradesh,Hardoi,55,21.5,19.5,14.7,True,False,2,True,False,False
+S0055,"Govt Primary School, Kushinagar Block 55",Uttar Pradesh,Kushinagar,75,28.3,29.3,15.1,True,True,3,False,False,True
+S0056,"Govt Upper Primary School, Balrampur Block 56",Uttar Pradesh,Balrampur,140,34.7,26.8,12.6,True,True,0,False,False,False
+S0057,"Govt Higher Secondary School, Shrawasti Block 57",Uttar Pradesh,Shrawasti,35,28.3,25.2,13.6,False,True,1,False,False,True
+S0058,"Govt Primary School, Basti Block 58",Uttar Pradesh,Basti,90,29.6,30.3,15.9,True,True,1,False,False,False
+S0059,"Govt Upper Primary School, Siddharthnagar Block 59",Uttar Pradesh,Siddharthnagar,48,34.3,22.8,14.4,True,True,2,False,True,False
+S0060,"Govt Higher Secondary School, Azamgarh Block 60",Uttar Pradesh,Azamgarh,90,20.9,27.7,16.9,True,False,1,True,False,False
+S0061,"Govt Primary School, Gorakhpur Block 61",Uttar Pradesh,Gorakhpur,48,19.1,31.5,15.2,False,True,0,False,False,False
+S0062,"Govt Upper Primary School, Bahraich Block 62",Uttar Pradesh,Bahraich,75,33.3,27.4,14.1,True,True,0,False,True,False
+S0063,"Govt Higher Secondary School, Sitapur Block 63",Uttar Pradesh,Sitapur,82,20.0,34.6,15.5,False,True,0,True,False,False
+S0064,"Govt Primary School, Hardoi Block 64",Uttar Pradesh,Hardoi,140,27.5,28.3,10.1,False,True,2,False,False,False
+S0065,"Govt Upper Primary School, Kushinagar Block 65",Uttar Pradesh,Kushinagar,75,33.5,23.8,14.6,True,False,2,False,True,False
+S0066,"Govt Primary School, Purnia Block 1",Bihar,Purnia,82,24.8,19.5,10.8,True,False,2,False,True,False
+S0067,"Govt Upper Primary School, Katihar Block 2",Bihar,Katihar,42,22.1,26.1,8.0,True,False,1,False,True,False
+S0068,"Govt Higher Secondary School, Araria Block 3",Bihar,Araria,55,15.0,7.4,5.5,True,False,0,False,False,False
+S0069,"Govt Primary School, Kishanganj Block 4",Bihar,Kishanganj,105,16.1,17.0,8.7,True,True,2,False,True,False
+S0070,"Govt Upper Primary School, Madhepura Block 5",Bihar,Madhepura,75,6.4,13.8,9.0,True,True,3,True,False,False
+S0071,"Govt Higher Secondary School, Saharsa Block 6",Bihar,Saharsa,120,26.3,16.9,9.9,True,False,0,False,False,False
+S0072,"Govt Primary School, Gopalganj Block 7",Bihar,Gopalganj,60,9.7,12.3,7.3,True,False,0,True,False,False
+S0073,"Govt Upper Primary School, Siwan Block 8",Bihar,Siwan,68,22.4,17.1,4.0,True,False,0,False,True,False
+S0074,"Govt Higher Secondary School, Sitamarhi Block 9",Bihar,Sitamarhi,105,21.0,20.7,9.6,True,True,2,False,True,True
+S0075,"Govt Primary School, Sheohar Block 10",Bihar,Sheohar,140,32.6,19.9,11.4,True,False,1,False,True,False
+S0076,"Govt Upper Primary School, Purnia Block 11",Bihar,Purnia,55,22.9,17.9,8.1,True,True,0,False,False,True
+S0077,"Govt Higher Secondary School, Katihar Block 12",Bihar,Katihar,60,10.7,20.2,4.3,True,False,0,True,True,False
+S0078,"Govt Primary School, Araria Block 13",Bihar,Araria,140,22.5,18.1,5.9,True,False,0,True,False,False
+S0079,"Govt Upper Primary School, Kishanganj Block 14",Bihar,Kishanganj,55,8.4,20.0,11.0,True,True,0,True,False,False
+S0080,"Govt Higher Secondary School, Madhepura Block 15",Bihar,Madhepura,35,16.9,16.0,11.7,True,True,1,False,False,False
+S0081,"Govt Primary School, Saharsa Block 16",Bihar,Saharsa,82,26.5,27.6,2.9,True,True,0,False,True,False
+S0082,"Govt Upper Primary School, Gopalganj Block 17",Bihar,Gopalganj,82,18.7,18.8,13.0,True,True,0,False,True,False
+S0083,"Govt Higher Secondary School, Siwan Block 18",Bihar,Siwan,75,21.2,20.1,6.0,False,True,2,False,False,True
+S0084,"Govt Primary School, Sitamarhi Block 19",Bihar,Sitamarhi,105,16.0,20.1,11.0,True,True,4,False,True,False
+S0085,"Govt Upper Primary School, Sheohar Block 20",Bihar,Sheohar,120,12.0,13.3,7.6,True,True,0,True,False,False
+S0086,"Govt Higher Secondary School, Purnia Block 21",Bihar,Purnia,82,3.5,15.7,7.5,True,False,0,True,False,False
+S0087,"Govt Primary School, Katihar Block 22",Bihar,Katihar,120,15.5,10.0,4.3,False,False,1,False,False,False
+S0088,"Govt Upper Primary School, Araria Block 23",Bihar,Araria,60,20.6,20.0,9.2,True,True,3,True,True,True
+S0089,"Govt Higher Secondary School, Kishanganj Block 24",Bihar,Kishanganj,140,20.6,23.4,8.0,True,True,0,True,False,False
+S0090,"Govt Primary School, Madhepura Block 25",Bihar,Madhepura,75,10.2,18.0,11.1,True,True,2,False,True,False
+S0091,"Govt Upper Primary School, Saharsa Block 26",Bihar,Saharsa,120,22.3,19.7,5.7,True,True,3,False,False,True
+S0092,"Govt Higher Secondary School, Gopalganj Block 27",Bihar,Gopalganj,60,7.4,19.3,6.5,True,True,0,False,False,True
+S0093,"Govt Primary School, Siwan Block 28",Bihar,Siwan,48,13.4,13.8,9.9,True,False,0,False,False,False
+S0094,"Govt Upper Primary School, Sitamarhi Block 29",Bihar,Sitamarhi,82,21.0,15.6,13.9,True,True,0,True,False,True
+S0095,"Govt Higher Secondary School, Sheohar Block 30",Bihar,Sheohar,82,25.7,25.9,11.1,True,False,1,True,False,False
+S0096,"Govt Primary School, Purnia Block 31",Bihar,Purnia,55,9.6,12.5,11.2,True,False,0,True,False,False
+S0097,"Govt Upper Primary School, Katihar Block 32",Bihar,Katihar,140,15.1,31.0,7.4,True,False,0,False,False,False
+S0098,"Govt Higher Secondary School, Araria Block 33",Bihar,Araria,82,18.1,16.5,7.6,False,False,4,False,False,False
+S0099,"Govt Primary School, Kishanganj Block 34",Bihar,Kishanganj,82,25.9,30.5,7.0,True,True,0,False,False,False
+S0100,"Govt Upper Primary School, Madhepura Block 35",Bihar,Madhepura,42,27.1,8.9,11.8,True,False,0,False,False,False
+S0101,"Govt Higher Secondary School, Saharsa Block 36",Bihar,Saharsa,105,6.0,26.1,3.4,True,True,1,False,False,True
+S0102,"Govt Primary School, Gopalganj Block 37",Bihar,Gopalganj,90,17.5,23.3,6.0,True,True,1,False,False,False
+S0103,"Govt Upper Primary School, Siwan Block 38",Bihar,Siwan,68,29.5,6.7,8.2,False,True,2,False,False,False
+S0104,"Govt Higher Secondary School, Sitamarhi Block 39",Bihar,Sitamarhi,48,23.9,21.2,5.7,True,False,1,True,True,False
+S0105,"Govt Primary School, Sheohar Block 40",Bihar,Sheohar,82,10.0,18.9,11.5,True,True,0,True,False,False
+S0106,"Govt Upper Primary School, Purnia Block 41",Bihar,Purnia,60,9.1,29.9,3.2,True,False,0,False,False,False
+S0107,"Govt Higher Secondary School, Katihar Block 42",Bihar,Katihar,140,11.1,9.5,11.0,True,True,3,False,True,False
+S0108,"Govt Primary School, Araria Block 43",Bihar,Araria,60,8.5,11.0,7.1,True,False,4,False,False,False
+S0109,"Govt Upper Primary School, Kishanganj Block 44",Bihar,Kishanganj,35,15.5,20.1,4.6,True,False,0,False,False,False
+S0110,"Govt Higher Secondary School, Madhepura Block 45",Bihar,Madhepura,105,8.9,17.4,10.3,True,True,2,True,False,True
+S0111,"Govt Primary School, Saharsa Block 46",Bihar,Saharsa,55,21.7,26.3,5.2,True,True,1,True,False,True
+S0112,"Govt Upper Primary School, Gopalganj Block 47",Bihar,Gopalganj,120,24.1,19.0,8.3,True,False,1,True,True,False
+S0113,"Govt Higher Secondary School, Siwan Block 48",Bihar,Siwan,60,34.7,13.0,6.1,True,True,0,True,False,False
+S0114,"Govt Primary School, Sitamarhi Block 49",Bihar,Sitamarhi,140,32.6,14.6,8.2,True,True,0,False,False,True
+S0115,"Govt Upper Primary School, Sheohar Block 50",Bihar,Sheohar,105,15.4,15.0,4.5,True,True,2,False,True,False
+S0116,"Govt Higher Secondary School, Purnia Block 51",Bihar,Purnia,55,14.3,27.5,5.5,True,False,2,False,False,False
+S0117,"Govt Primary School, Katihar Block 52",Bihar,Katihar,120,13.8,10.4,5.4,True,False,0,False,False,False
+S0118,"Govt Upper Primary School, Araria Block 53",Bihar,Araria,68,8.4,24.6,8.5,True,False,2,True,True,False
+S0119,"Govt Higher Secondary School, Kishanganj Block 54",Bihar,Kishanganj,60,23.0,24.5,11.0,False,False,3,False,False,False
+S0120,"Govt Primary School, Madhepura Block 55",Bihar,Madhepura,82,16.7,23.9,7.6,False,False,4,True,False,False
+S0121,"Govt Upper Primary School, Saharsa Block 56",Bihar,Saharsa,68,29.6,16.5,6.9,False,False,0,True,False,False
+S0122,"Govt Higher Secondary School, Gopalganj Block 57",Bihar,Gopalganj,60,1.4,18.7,9.3,True,False,1,False,True,False
+S0123,"Govt Primary School, Siwan Block 58",Bihar,Siwan,105,20.7,17.9,8.1,False,True,0,True,False,False
+S0124,"Govt Upper Primary School, Sitamarhi Block 59",Bihar,Sitamarhi,48,19.3,24.9,3.1,True,True,0,True,False,False
+S0125,"Govt Higher Secondary School, Sheohar Block 60",Bihar,Sheohar,140,21.0,18.9,8.3,True,True,2,False,True,True
+S0126,"Govt Primary School, Purnia Block 61",Bihar,Purnia,82,25.4,10.8,5.9,False,False,2,False,False,False
+S0127,"Govt Upper Primary School, Katihar Block 62",Bihar,Katihar,120,16.3,28.0,8.6,True,True,1,False,False,False
+S0128,"Govt Higher Secondary School, Araria Block 63",Bihar,Araria,82,24.4,17.7,7.3,True,False,0,True,False,False
+S0129,"Govt Primary School, Kishanganj Block 64",Bihar,Kishanganj,55,7.8,6.7,10.1,False,False,0,False,False,False
+S0130,"Govt Upper Primary School, Madhepura Block 65",Bihar,Madhepura,48,19.7,20.1,9.7,False,True,2,False,False,False
+S0131,"Govt Primary School, Wayanad Block 1",Kerala,Wayanad,90,35.5,33.5,4.7,True,False,0,False,False,False
+S0132,"Govt Upper Primary School, Palakkad Block 2",Kerala,Palakkad,42,29.4,50.3,5.8,True,True,1,False,False,False
+S0133,"Govt Higher Secondary School, Malappuram Block 3",Kerala,Malappuram,90,32.2,30.1,3.3,True,True,2,False,False,False
+S0134,"Govt Primary School, Idukki Block 4",Kerala,Idukki,140,28.6,24.9,2.8,True,True,0,False,False,True
+S0135,"Govt Upper Primary School, Kasaragod Block 5",Kerala,Kasaragod,82,35.5,23.7,5.8,False,True,1,False,False,True
+S0136,"Govt Higher Secondary School, Kannur Block 6",Kerala,Kannur,120,25.2,27.0,6.0,True,False,4,True,False,False
+S0137,"Govt Primary School, Kollam Block 7",Kerala,Kollam,105,31.3,26.7,7.4,True,True,4,False,False,True
+S0138,"Govt Upper Primary School, Wayanad Block 8",Kerala,Wayanad,75,35.6,26.0,1.7,False,False,3,False,False,False
+S0139,"Govt Higher Secondary School, Palakkad Block 9",Kerala,Palakkad,55,38.0,27.4,2.0,True,False,3,False,True,False
+S0140,"Govt Primary School, Malappuram Block 10",Kerala,Malappuram,75,36.3,26.2,3.6,True,True,3,False,True,False
+S0141,"Govt Upper Primary School, Idukki Block 11",Kerala,Idukki,60,33.4,21.5,3.6,False,False,0,True,False,False
+S0142,"Govt Higher Secondary School, Kasaragod Block 12",Kerala,Kasaragod,48,28.9,30.1,0,True,True,1,True,False,False
+S0143,"Govt Primary School, Kannur Block 13",Kerala,Kannur,68,35.3,35.6,8.1,True,True,0,True,False,False
+S0144,"Govt Upper Primary School, Kollam Block 14",Kerala,Kollam,48,31.9,22.6,9.3,True,False,0,False,False,False
+S0145,"Govt Higher Secondary School, Wayanad Block 15",Kerala,Wayanad,90,27.8,24.8,2.5,True,True,0,True,False,False
+S0146,"Govt Primary School, Palakkad Block 16",Kerala,Palakkad,35,24.1,27.1,7.7,True,False,0,False,False,False
+S0147,"Govt Upper Primary School, Malappuram Block 17",Kerala,Malappuram,42,33.8,30.4,8.0,True,True,0,False,False,True
+S0148,"Govt Higher Secondary School, Idukki Block 18",Kerala,Idukki,120,26.5,31.6,6.2,True,True,3,True,False,False
+S0149,"Govt Primary School, Kasaragod Block 19",Kerala,Kasaragod,105,31.1,27.7,9.6,False,True,1,False,False,False
+S0150,"Govt Upper Primary School, Kannur Block 20",Kerala,Kannur,105,31.6,27.5,6.5,False,True,1,False,False,False
+S0151,"Govt Higher Secondary School, Kollam Block 21",Kerala,Kollam,60,25.8,33.9,6.1,True,True,2,True,True,False
+S0152,"Govt Primary School, Wayanad Block 22",Kerala,Wayanad,55,34.0,29.4,3.0,True,True,3,False,False,False
+S0153,"Govt Upper Primary School, Palakkad Block 23",Kerala,Palakkad,105,28.4,18.0,4.7,True,True,0,False,False,False
+S0154,"Govt Higher Secondary School, Malappuram Block 24",Kerala,Malappuram,105,26.0,42.1,6.8,True,True,2,False,False,False
+S0155,"Govt Primary School, Idukki Block 25",Kerala,Idukki,48,36.9,25.5,1.7,False,True,1,True,False,False
+S0156,"Govt Upper Primary School, Kasaragod Block 26",Kerala,Kasaragod,42,23.7,21.7,0.7,True,True,0,True,False,False
+S0157,"Govt Higher Secondary School, Kannur Block 27",Kerala,Kannur,90,40.6,33.0,8.4,False,True,1,False,False,False
+S0158,"Govt Primary School, Kollam Block 28",Kerala,Kollam,105,35.6,38.4,2.8,True,False,2,False,False,False
+S0159,"Govt Upper Primary School, Wayanad Block 29",Kerala,Wayanad,140,26.6,29.5,5.1,False,True,0,False,False,False
+S0160,"Govt Higher Secondary School, Palakkad Block 30",Kerala,Palakkad,105,31.1,38.1,5.0,False,True,0,True,False,False
+S0161,"Govt Primary School, Malappuram Block 31",Kerala,Malappuram,42,28.7,35.0,2.2,True,True,0,False,False,False
+S0162,"Govt Upper Primary School, Idukki Block 32",Kerala,Idukki,105,36.9,25.5,5.2,False,False,3,False,False,False
+S0163,"Govt Higher Secondary School, Kasaragod Block 33",Kerala,Kasaragod,105,27.1,27.4,0.2,True,True,2,True,False,False
+S0164,"Govt Primary School, Kannur Block 34",Kerala,Kannur,140,42.7,21.0,2.7,True,True,3,False,False,False
+S0165,"Govt Upper Primary School, Kollam Block 35",Kerala,Kollam,48,27.1,22.3,2.4,True,True,4,False,True,True
+S0166,"Govt Primary School, Shivpuri Block 1",Madhya Pradesh,Shivpuri,120,14.0,12.5,15.9,True,True,0,False,True,False
+S0167,"Govt Upper Primary School, Barwani Block 2",Madhya Pradesh,Barwani,48,23.0,24.3,18.6,True,False,2,True,False,False
+S0168,"Govt Higher Secondary School, Shivpuri Block 3",Madhya Pradesh,Shivpuri,140,28.6,13.7,19.1,False,True,2,True,False,True
+S0169,"Govt Primary School, Barwani Block 4",Madhya Pradesh,Barwani,105,20.1,35.5,17.3,True,False,4,False,True,False
+S0170,"Govt Upper Primary School, Shivpuri Block 5",Madhya Pradesh,Shivpuri,55,6.3,18.8,18.5,True,False,3,True,False,False
+S0171,"Govt Primary School, Dahod Block 1",Gujarat,Dahod,48,30.4,21.6,14.4,False,True,0,False,False,True
+S0172,"Govt Upper Primary School, Narmada Block 2",Gujarat,Narmada,82,32.0,30.9,12.6,False,True,3,False,False,False
+S0173,"Govt Higher Secondary School, Dahod Block 3",Gujarat,Dahod,68,19.8,30.1,8.8,True,True,4,False,True,True
+S0174,"Govt Primary School, Narmada Block 4",Gujarat,Narmada,82,29.2,20.8,6.9,True,True,2,True,True,False
+S0175,"Govt Upper Primary School, Dahod Block 5",Gujarat,Dahod,90,23.2,20.7,11.5,True,False,4,False,False,False
+S0176,"Govt Primary School, Villupuram Block 1",Tamil Nadu,Villupuram,82,24.1,34.4,5.7,True,False,0,False,True,False
+S0177,"Govt Upper Primary School, Dharmapuri Block 2",Tamil Nadu,Dharmapuri,35,16.6,35.0,2.8,True,True,2,True,False,False
+S0178,"Govt Higher Secondary School, Villupuram Block 3",Tamil Nadu,Villupuram,42,18.2,27.3,6.8,True,False,4,False,True,False
+S0179,"Govt Primary School, Dharmapuri Block 4",Tamil Nadu,Dharmapuri,68,25.6,28.0,10.0,True,True,0,True,False,True
+S0180,"Govt Upper Primary School, Villupuram Block 5",Tamil Nadu,Villupuram,105,25.6,36.3,2.8,True,True,2,False,False,True
+S0181,"Govt Primary School, Chamba Block 1",Himachal Pradesh,Chamba,48,25.4,30.6,5.5,True,True,0,False,False,True
+S0182,"Govt Upper Primary School, Kinnaur Block 2",Himachal Pradesh,Kinnaur,35,17.4,29.2,5.5,True,True,0,True,True,False
+S0183,"Govt Higher Secondary School, Chamba Block 3",Himachal Pradesh,Chamba,35,15.1,40.6,4.3,True,True,3,False,True,False
+S0184,"Govt Primary School, Kinnaur Block 4",Himachal Pradesh,Kinnaur,75,24.3,38.1,6.7,False,False,0,True,False,False
+S0185,"Govt Upper Primary School, Chamba Block 5",Himachal Pradesh,Chamba,75,22.0,28.6,5.6,True,True,2,False,False,True
+S0186,"Govt Primary School, Mansa Block 1",Punjab,Mansa,48,17.5,27.6,7.8,True,False,2,False,True,False
+S0187,"Govt Upper Primary School, Muktsar Block 2",Punjab,Muktsar,35,33.7,33.2,0.7,True,False,0,False,True,False
+S0188,"Govt Higher Secondary School, Mansa Block 3",Punjab,Mansa,48,39.0,23.0,9.4,True,False,3,False,True,False
+S0189,"Govt Primary School, Muktsar Block 4",Punjab,Muktsar,35,19.1,31.2,6.3,True,False,2,False,False,False
+S0190,"Govt Upper Primary School, Mansa Block 5",Punjab,Mansa,90,30.6,35.5,5.2,True,True,1,True,False,True
+S0191,"Govt Primary School, Lawngtlai Block 1",Mizoram,Lawngtlai,82,25.4,18.0,9.8,True,True,0,False,True,True
+S0192,"Govt Upper Primary School, Saiha Block 2",Mizoram,Saiha,42,31.0,17.5,3.7,True,True,1,False,True,True
+S0193,"Govt Higher Secondary School, Lawngtlai Block 3",Mizoram,Lawngtlai,42,23.6,25.9,10.2,True,True,1,True,False,False
+S0194,"Govt Primary School, Saiha Block 4",Mizoram,Saiha,48,15.4,23.9,13.6,True,False,2,False,False,False
+S0195,"Govt Upper Primary School, Lawngtlai Block 5",Mizoram,Lawngtlai,68,28.9,27.8,15.0,True,True,1,False,False,False
+S0196,"Govt Primary School, Soreng Block 1",Sikkim,Soreng,75,32.1,17.4,8.4,True,True,3,True,True,False
+S0197,"Govt Upper Primary School, Pakyong Block 2",Sikkim,Pakyong,90,32.5,23.5,2.4,True,False,2,True,True,False
+S0198,"Govt Higher Secondary School, Soreng Block 3",Sikkim,Soreng,42,26.8,31.2,5.4,False,True,1,True,False,False
+S0199,"Govt Primary School, Pakyong Block 4",Sikkim,Pakyong,42,31.4,36.9,6.9,True,True,0,False,False,True
+S0200,"Govt Upper Primary School, Soreng Block 5",Sikkim,Soreng,90,38.4,22.1,5.6,True,True,2,False,False,True
+S0201,"Govt Primary School, Malkangiri Block 1",Odisha,Malkangiri,55,37.6,29.1,12.3,True,True,2,False,True,False
+S0202,"Govt Upper Primary School, Nabarangpur Block 2",Odisha,Nabarangpur,60,33.1,21.5,4.8,True,True,1,False,False,True
+S0203,"Govt Higher Secondary School, Malkangiri Block 3",Odisha,Malkangiri,55,24.0,21.4,7.8,True,True,0,True,False,True
+S0204,"Govt Primary School, Nabarangpur Block 4",Odisha,Nabarangpur,75,26.9,29.4,5.3,False,True,0,True,False,False
+S0205,"Govt Upper Primary School, Malkangiri Block 5",Odisha,Malkangiri,60,21.1,24.0,5.1,True,True,4,False,True,False
+S0206,"Govt Primary School, Gadchiroli Block 1",Maharashtra,Gadchiroli,90,28.0,35.8,4.4,True,True,1,False,False,True
+S0207,"Govt Upper Primary School, Nandurbar Block 2",Maharashtra,Nandurbar,35,24.4,27.0,3.8,True,True,0,True,True,False
+S0208,"Govt Higher Secondary School, Gadchiroli Block 3",Maharashtra,Gadchiroli,42,31.1,33.5,3.5,True,True,1,False,True,True
+S0209,"Govt Primary School, Nandurbar Block 4",Maharashtra,Nandurbar,90,25.6,16.9,4.3,True,True,0,True,True,False
+S0210,"Govt Upper Primary School, Gadchiroli Block 5",Maharashtra,Gadchiroli,105,31.5,19.8,7.0,True,True,0,False,False,True
+S0211,"Govt Primary School, Mewat Block 1",Haryana,Mewat,82,28.3,33.8,6.2,True,True,1,True,True,True
+S0212,"Govt Upper Primary School, Fatehabad Block 2",Haryana,Fatehabad,75,26.0,29.6,6.1,False,True,4,False,False,True
+S0213,"Govt Higher Secondary School, Mewat Block 3",Haryana,Mewat,35,24.3,32.2,8.5,True,True,1,False,False,False
+S0214,"Govt Primary School, Fatehabad Block 4",Haryana,Fatehabad,140,19.5,34.9,6.6,True,False,2,False,False,False
+S0215,"Govt Upper Primary School, Mewat Block 5",Haryana,Mewat,82,25.1,35.7,10.2,True,True,0,False,True,False
+S0216,"Govt Primary School, Vizianagaram Block 1",Andhra Pradesh,Vizianagaram,75,20.6,15.6,5.3,True,True,0,False,False,False
+S0217,"Govt Upper Primary School, Anantapur Block 2",Andhra Pradesh,Anantapur,48,13.2,29.5,11.5,True,True,1,False,True,True
+S0218,"Govt Higher Secondary School, Vizianagaram Block 3",Andhra Pradesh,Vizianagaram,82,16.2,30.8,7.0,True,False,3,False,True,False
+S0219,"Govt Primary School, Anantapur Block 4",Andhra Pradesh,Anantapur,55,15.7,32.2,6.3,True,True,4,False,False,False
+S0220,"Govt Upper Primary School, Vizianagaram Block 5",Andhra Pradesh,Vizianagaram,140,13.5,19.7,12.7,False,False,0,False,False,False
+S0221,"Govt Primary School, Adilabad Block 1",Telangana,Adilabad,75,8.0,17.8,6.6,True,True,3,False,False,False
+S0222,"Govt Upper Primary School, Mahabubnagar Block 2",Telangana,Mahabubnagar,68,16.1,24.7,5.0,True,False,4,False,False,False
+S0223,"Govt Higher Secondary School, Adilabad Block 3",Telangana,Adilabad,42,20.9,18.8,7.9,True,True,2,False,True,True
+S0224,"Govt Primary School, Mahabubnagar Block 4",Telangana,Mahabubnagar,35,16.8,23.4,10.7,True,True,0,True,True,False
+S0225,"Govt Upper Primary School, Adilabad Block 5",Telangana,Adilabad,120,12.1,24.6,11.2,False,True,4,False,False,True
+S0226,"Govt Primary School, Purulia Block 1",West Bengal,Purulia,105,31.8,21.3,8.6,False,True,0,False,False,False
+S0227,"Govt Upper Primary School, Malda Block 2",West Bengal,Malda,35,21.0,23.7,7.7,True,False,4,False,False,False
+S0228,"Govt Higher Secondary School, Purulia Block 3",West Bengal,Purulia,35,17.0,10.9,5.6,False,False,0,False,False,False
+S0229,"Govt Primary School, Malda Block 4",West Bengal,Malda,48,33.4,35.7,3.8,True,True,3,False,True,True
+S0230,"Govt Upper Primary School, Purulia Block 5",West Bengal,Purulia,60,37.6,26.0,6.5,True,True,2,True,False,False
+S0231,"Govt Primary School, Pakur Block 1",Jharkhand,Pakur,90,7.8,17.8,11.2,False,False,0,True,False,False
+S0232,"Govt Upper Primary School, Sahibganj Block 2",Jharkhand,Sahibganj,35,27.5,36.0,13.0,True,False,0,True,False,False
+S0233,"Govt Higher Secondary School, Pakur Block 3",Jharkhand,Pakur,140,17.4,7.1,7.7,True,False,0,False,True,False
+S0234,"Govt Primary School, Sahibganj Block 4",Jharkhand,Sahibganj,140,26.1,18.5,9.3,True,False,2,False,False,False
+S0235,"Govt Upper Primary School, Pakur Block 5",Jharkhand,Pakur,82,7.8,11.1,7.8,False,True,2,False,False,False
+S0236,"Govt Primary School, Champawat Block 1",Uttarakhand,Champawat,55,32.1,27.1,0.7,True,False,2,False,True,False
+S0237,"Govt Upper Primary School, Uttarkashi Block 2",Uttarakhand,Uttarkashi,42,20.3,25.0,3.0,True,False,0,False,True,False
+S0238,"Govt Higher Secondary School, Champawat Block 3",Uttarakhand,Champawat,90,27.8,23.2,5.9,True,True,1,False,False,True
+S0239,"Govt Primary School, Uttarkashi Block 4",Uttarakhand,Uttarkashi,75,27.6,24.2,8.2,True,True,1,True,True,False
+S0240,"Govt Upper Primary School, Champawat Block 5",Uttarakhand,Champawat,35,25.1,20.4,7.1,True,True,2,False,False,True
